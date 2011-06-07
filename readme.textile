@@ -1,0 +1,18 @@
+h1. jquery.formidable
+
+Formidable takes care of common tasks associated with setting up a submit once only form including but not limited to disabling submission, disabling inputs, toggling spinners, and defualt field value behavior. Formidable is intended to be a lightweight, no bells-and-whistles helper plugin on top of jQuery, and jquery.validate.
+
+It is based on what I believe to be a simple and sensible pattern for form markup.
+
+h2. Using this plugin
+
+Coming soon!
+
+h2. TODOS
+* Make more configurable
+* Accept a set of AJAX options (no defaults - I believe in using #ajax) and take care of this with appropriate form disabling / enabling
+* Add a little integration with jquery.validate
+* Intefere with the jQuery object less
+* Add example
+* Add minified version
+* Organize code
